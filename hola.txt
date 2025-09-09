@@ -1,0 +1,2 @@
+¡Mi primer archivo para ML!
+Practicando con el libro de Aurélien Géron.
