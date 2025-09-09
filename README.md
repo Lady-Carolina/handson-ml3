@@ -1,3 +1,6 @@
+# Mi fork de handson-ml3
+Este es mi espacio para practicar los ejercicios del libro "Hands-On Machine Learning" de Aurélien Géron.
+
 Machine Learning Notebooks, 3rd edition
 =================================
 
